@@ -1,4 +1,4 @@
 MoodleWeb
 =========
 
-<http://www.moodleweb.net>
+<https://moodleweb.net>
